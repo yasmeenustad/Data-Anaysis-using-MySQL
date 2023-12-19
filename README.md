@@ -1,2 +1,2 @@
 # Data-Anaysis-using-MySQL
-Employed diverse datasets, conducting thorough data analysis through MySQL queries. Leveraged varied sources to derive insights and trends, employing MySQL for comprehensive analysis.
+Utilized various datasets, performing in-depth analysis via MySQL queries. Leveraged diverse sources to extract insights and identify trends effectively. Employed MySQL extensively for a comprehensive and detailed examination of the data.
