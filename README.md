@@ -3,3 +3,6 @@ Utilized various datasets, performing in-depth analysis via MySQL queries. Lever
 
 ## 1: Gen-Z's Career Aspirations Analysis:
 
+https://github.com/yasmeenustad/Data-Anaysis-using-MySQL/assets/112754746/6e76546b-d361-4d1a-9087-f70bfe77ff99
+
+
