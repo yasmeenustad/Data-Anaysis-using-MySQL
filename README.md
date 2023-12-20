@@ -7,5 +7,7 @@ https://github.com/yasmeenustad/Data-Anaysis-using-MySQL/assets/112754746/3a75aa
 
 ## 2: Super-Market Sales Analysis:
 
+https://github.com/yasmeenustad/Data-Anaysis-using-MySQL/assets/112754746/90a3a5fc-c6f2-4f76-88f7-865490e6eea7
+
 
 
